@@ -1,2 +1,7 @@
 Ano-2016.csv.zip
 .ipynb_checkpoints/*
+cotia/data/
+freq_palavras/original/
+freq_palavras/text/
+freq_palavras/panlex_lite.zip
+freq_palavras/.ipynb_checkpoints/
